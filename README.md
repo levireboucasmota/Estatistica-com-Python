@@ -51,7 +51,7 @@ Este projeto tem como objetivo realizar uma análise descritiva básica, incluin
 ---
 
 ## 📂 Estrutura do Repositório
-📦 projeto-estatistica/
+📦 projeto-estatistica/                                                                                                                                                                                                                                                            
 ├── 📘 analise_descritiva.ipynb → Notebook principal
 └──  📁 dados/ → Arquivos utilizados na análise
 📄 README.md → Documentação do projeto
